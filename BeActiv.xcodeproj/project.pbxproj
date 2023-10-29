@@ -15,6 +15,7 @@
 		0707DDC32AEA8FF900CC63C8 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0707DDC22AEA8FF900CC63C8 /* HomeView.swift */; };
 		0707DDC52AEA904300CC63C8 /* ActivityCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0707DDC42AEA904300CC63C8 /* ActivityCard.swift */; };
 		0707DDC72AEA929E00CC63C8 /* HealthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0707DDC62AEA929E00CC63C8 /* HealthManager.swift */; };
+		07912ADB2AED3EC9000BEA00 /* ChartsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07912ADA2AED3EC9000BEA00 /* ChartsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		0707DDC42AEA904300CC63C8 /* ActivityCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityCard.swift; sourceTree = "<group>"; };
 		0707DDC62AEA929E00CC63C8 /* HealthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthManager.swift; sourceTree = "<group>"; };
 		0707DDC82AEA942500CC63C8 /* BeActiv.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BeActiv.entitlements; sourceTree = "<group>"; };
+		07912ADA2AED3EC9000BEA00 /* ChartsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				0707DDB22AEA8F7B00CC63C8 /* BeActivApp.swift */,
 				0707DDB42AEA8F7B00CC63C8 /* ContentView.swift */,
 				0707DDC02AEA8F9C00CC63C8 /* BeActivTabView.swift */,
+				07912ADA2AED3EC9000BEA00 /* ChartsView.swift */,
 				0707DDC22AEA8FF900CC63C8 /* HomeView.swift */,
 				0707DDC62AEA929E00CC63C8 /* HealthManager.swift */,
 				0707DDC42AEA904300CC63C8 /* ActivityCard.swift */,
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07912ADB2AED3EC9000BEA00 /* ChartsView.swift in Sources */,
 				0707DDB52AEA8F7B00CC63C8 /* ContentView.swift in Sources */,
 				0707DDC72AEA929E00CC63C8 /* HealthManager.swift in Sources */,
 				0707DDC32AEA8FF900CC63C8 /* HomeView.swift in Sources */,
